@@ -1,0 +1,2 @@
+# Python
+💻 BOJ Algorithm
